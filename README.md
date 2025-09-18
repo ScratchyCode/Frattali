@@ -1,6 +1,6 @@
 # Frattali
 
-Ottenere un frattale di Sierpinski dal triangolo di tartaglia:
+Ottenere un frattale di Sierpinski dal triangolo di Tartaglia:
 
 
     pixel neri    = coeff pari
